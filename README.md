@@ -4,7 +4,7 @@
 [![GitHub](https://img.shields.io/badge/gdeedler%20-%23121011.svg?&style=flat-square&logo=github&logoColor=white&link=https://github.com/gdeedler)](https://github.com/gdeedler)
 [![Gmail](https://img.shields.io/badge/grantdeedler%20-%23D14836.svg?&style=flat-square&logo=gmail&logoColor=white&link=mailto:grantdeedler@gmail.com)](mailto:grantdeedler@gmail.com)
 
-- Full stack software engineer, proficient in JavaScript, React, Node.js, MongoDB, SQL
+- Full stack software engineer, proficient in JavaScript, TypeScript, React, Node.js, MongoDB, SQL
 - Based in Ann Arbor, MI 🌳
 - Pronouns: he/him/his
 
